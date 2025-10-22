@@ -189,6 +189,7 @@ nav {
     background: transparent;
     border: none;
     transition: all 300ms ease;
+    cursor: pointer;
 }
 
 .btn__menu--svg:hover {
